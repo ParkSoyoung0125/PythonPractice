@@ -1,0 +1,11 @@
+name = input('이름 입력 : ')
+kor = float(input('국어 입력 : '))
+eng = float(input('영어 입력 : '))
+math = float(input('수학 입력 : '))
+
+print('이름 : %s' % name)
+print('국어 : %.2f' % kor)
+print('영어 : %.2f' % eng)
+print('수학 : %.2f' % math)
+print('총점 : %6.2f' % (kor+eng+math))
+print('평균 : %.2f' % ((kor+eng+math)/3))
