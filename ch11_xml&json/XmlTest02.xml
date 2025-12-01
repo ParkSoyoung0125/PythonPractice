@@ -1,0 +1,12 @@
+<students>
+	<student id="hong" 총점="210" 평균="70.00">
+		<kor>60</kor>
+		<eng>80</eng>
+		<math>70</math>
+	</student>
+	<student id="park" 총점="215" 평균="71.67">
+		<kor>50</kor>
+		<eng>70</eng>
+		<math>95</math>
+	</student>
+</students>
