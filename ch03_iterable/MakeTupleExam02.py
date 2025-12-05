@@ -17,3 +17,4 @@ newList = list(newTuple)
 print('오름차순 정렬')
 newList.sort()
 print(newList)
+
